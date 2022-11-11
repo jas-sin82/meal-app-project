@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jas-sin82/meal-app-project/static/css/main.cae2f9c6.chunk.css",
+    "main.js": "/jas-sin82/meal-app-project/static/js/main.1a8a3245.chunk.js",
+    "main.js.map": "/jas-sin82/meal-app-project/static/js/main.1a8a3245.chunk.js.map",
+    "runtime-main.js": "/jas-sin82/meal-app-project/static/js/runtime-main.caca3cc8.js",
+    "runtime-main.js.map": "/jas-sin82/meal-app-project/static/js/runtime-main.caca3cc8.js.map",
+    "static/js/2.8b208e37.chunk.js": "/jas-sin82/meal-app-project/static/js/2.8b208e37.chunk.js",
+    "static/js/2.8b208e37.chunk.js.map": "/jas-sin82/meal-app-project/static/js/2.8b208e37.chunk.js.map",
+    "index.html": "/jas-sin82/meal-app-project/index.html",
+    "static/css/main.cae2f9c6.chunk.css.map": "/jas-sin82/meal-app-project/static/css/main.cae2f9c6.chunk.css.map",
+    "static/js/2.8b208e37.chunk.js.LICENSE.txt": "/jas-sin82/meal-app-project/static/js/2.8b208e37.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/jas-sin82/meal-app-project/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caca3cc8.js",
+    "static/js/2.8b208e37.chunk.js",
+    "static/css/main.cae2f9c6.chunk.css",
+    "static/js/main.1a8a3245.chunk.js"
+  ]
+}
